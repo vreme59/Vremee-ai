@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://username.github.io/VREME-AI",
+  "homepage": "https://vreme59.github.io/Vremee-ai",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
